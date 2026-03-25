@@ -1,0 +1,16 @@
+{
+  "name": "ticketpricecalculator",
+  "version": "1.0.0",
+  "description": "https接続かssh接続かの確認を行います",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
